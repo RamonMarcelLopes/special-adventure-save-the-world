@@ -7,11 +7,16 @@ header{
     
    display: flex;
     height: 10%;
-    width: 100vw;
+    width: 100%;
     background-color: rgb(24, 23, 23);
     color: white;
     justify-content: center;
     align-items: center;  
+}
+
+main{
+   height: 100vh;
+   width: 100%;
 }
 
 header h1{
@@ -24,7 +29,7 @@ header img{
 body{
     background-color: rgb(43, 42, 42);
 height: 100vh;
-width: 100vw;
+width: 100%;
 
 }
 
@@ -83,4 +88,7 @@ transition:  100ms ease-in;
 #escudoh{
     height: 100px;
     width: 200px;
+}
+footer{
+    color: white;
 }

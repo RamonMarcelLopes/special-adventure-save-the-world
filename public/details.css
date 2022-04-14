@@ -6,7 +6,7 @@
 header{
    display: flex;
     height: 10%;
-    width: 100vw;
+    width: 100%;
     background-color: rgb(24, 23, 23);
     color: white;
     justify-content: center;
@@ -23,9 +23,17 @@ header img{
 body{
     background-color: rgb(43, 42, 42);
 height: 100vh;
-width: 100vw;
+width: 100%;
 
 }
+main{
+   display: flex;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+ }
+
+
 
 .card-total{
     background-color: rgb(24, 23, 23);
@@ -73,4 +81,43 @@ transition:  100ms ease-in;
 #escudoh{
     height: 100px;
     width: 200px;
+}
+footer{
+    color: white;
+}
+table{
+    height: 20%;
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: gray;
+}
+tr{
+    border: 1px solid black;
+    
+}
+td{
+   text-align: start;
+    font-size: 25px;
+    border: 1px solid black;
+    
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+    cursor:pointer;
+    background-color: rgb(24, 23, 23);
+    color: white;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(84, 83, 83);
+}
+#DC a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
