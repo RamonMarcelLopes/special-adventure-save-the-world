@@ -6,7 +6,7 @@
 - [Ramon Lopes](https://github.com/jacare-camabox)
 
 
-![Logo](https://i.imgur.com/tAZw3FE.png)
+<img aling="center" alt="jacare-vscode" height="20" width="30" src="https://i.imgur.com/tAZw3FE.png" />
 
 
 ## Stack utilizada
