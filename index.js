@@ -1,7 +1,7 @@
 import express from "express";
 import path from "path";
 
-const port = 3001;
+const port = process.env.port || 3001;
 
 let __dirname = path.resolve(path.dirname(""));
 
