@@ -3,10 +3,10 @@
 
 ## Autores
 
-- [Ramon Lopes](https://github.com/jacare-camabox)
+- [Ramon Lopes](https://github.com/jacare-camabox) <img aling="center" alt="jacare-vscode" height="30" width="30" src="https://i.imgur.com/tAZw3FE.png" />
 
 
-<img aling="center" alt="jacare-vscode" height="30" width="30" src="https://i.imgur.com/tAZw3FE.png" />
+
 
 
 ## Stack utilizada
